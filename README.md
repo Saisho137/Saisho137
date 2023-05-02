@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Software Engineer in training from Colombia</h3>
 
-- 🌱 I’m currently learning **React.js, Mobile and Interface Apps Development**
+- 🌱 I’m currently learning **Web Development and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saisho137?tab=repositories](https://github.com/Saisho137?tab=repositories)
 
