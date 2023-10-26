@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Software Engineer in training from Colombia</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saisho137?tab=repositories](https://github.com/Saisho137?tab=repositories)
 
-- 📫 How to reach me **santib.2001@hotmail.com**
+- 📫 How to reach me **santib.2001@hotmail.com** - **https://www.linkedin.com/in/santiago-betancur-duque-79548024b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
