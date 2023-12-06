@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisho137&label=Profile%20views&color=c50202&style=plastic" alt="saisho137" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisho137" alt="saisho137" /></a> </p>
-
 - 🔭 I’m currently working on [planning poker on Angular](https://github.com/Saisho137/Planning-Poker-Pragma)
 
 - 🌱 I’m currently learning **Angular17 - WebSockets**
