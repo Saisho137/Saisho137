@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [planning poker on Angular](https://github.com/Saisho137/Planning-Poker-Pragma)
 
-- 🌱 I’m currently learning **Angular17 - WebSockets**
+- 🌱 I’m currently learning **Angular17 - WebSockets / Observables**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saisho137?tab=repositories](https://github.com/Saisho137?tab=repositories)
 
-- 💬 Ask me about **React, NextJS**
+- 💬 Ask me about **JavaScript, TypeScript, React, NextJS**
 
 - 📫 How to reach me **santib.2001@hotmail.com - https://www.linkedin.com/in/santiago-betancur-duque-79548024b/**
 
