@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisho137&label=Profile%20views&color=c50202&style=plastic" alt="saisho137" /> </p>
 
-- 🔭 I’m currently working on [React: De cero a experto]([https://github.com/Saisho137/React-Cero_a_Experto-Udemy))
+- 🔭 I’m currently working on [React: De cero a experto]([https://github.com/Saisho137/React-Cero_a_Experto-Udemy])
 
 - 🌱 I’m currently learning *CRA - Vite - Testing library*
 
