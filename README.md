@@ -1,5 +1,5 @@
-<h1 align="center">👾 Hi 👋, I'm Santiago 👾</h1>
-<h3 align="center">A passionate Software Engineer in training from Colombia</h3>
+<h1 align="center"> Hi 👋, I'm Santiago</h1>
+<h3 align="center">A passionate Software Engineer from Colombia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisho137&label=Profile%20views&color=c50202&style=plastic" alt="saisho137" /> </p>
 
