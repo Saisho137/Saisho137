@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisho137&label=Profile%20views&color=c50202&style=plastic" alt="saisho137" /> </p>
 
-- 🔭 I’m currently working on [Microfrontends](https://github.com/Saisho137/MicroFronts-Angular-Vite)
+- 🔭 I’m currently working on [Archetype_NextJS](https://github.com/Saisho137/Archetype_NextJS)
 
-- 🌱 I’m currently learning *Global state management - Design patterns - Clean Architecture - Microfrontends*
+- 🌱 I’m currently learning *Java Springboot - Server Components - Web core vitals - Lombok / Flyway / JPA*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saisho137?tab=repositories](https://github.com/Saisho137?tab=repositories)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Angular, Jest, Gatsby**
+- 💬 Ask me about **JavaScript, TypeScript, Angular, React: CRA, Vite, Gatsby, NextJS; Jest, Testing Library**
 
 - 📫 How to reach me **santib.2001@hotmail.com - https://www.linkedin.com/in/santiago-betancur-duque-79548024b/**
 
