@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Archetype_NextJS](https://github.com/Saisho137/Archetype_NextJS)
 
-- 🌱 I’m currently learning *Java Springboot - Server Components - Core Web Vitals - Lombok / Flyway / JPA*
+- 🌱 I’m currently learning *AWS*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saisho137?tab=repositories](https://github.com/Saisho137?tab=repositories)
 
