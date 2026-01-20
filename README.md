@@ -9,8 +9,6 @@
 - 💬 Ask me about **TypeScript, React: CRA, Vite, NextJS & AWS**
 - 📫 How to reach me **santib.2001@hotmail.com - [Linkedin](https://www.linkedin.com/in/santiago-betancur-duque/)**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisho137" alt="saisho137" /></a> </p>
-
 ---
 ## <a name="my-top-skills"></a>My top skills:
 <p align="left">
@@ -53,6 +51,15 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+## <a name="contact"></a>Contact
+<p align="left">
+  <a href="mailto:santib.2001@hotmail.com"><img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/santiago-betancur-duque/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://github.com/Saisho137" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
 ---
@@ -110,17 +117,10 @@
 
 ---
 
-## <a name="contact"></a>Contact
-<p align="left">
-  <a href="mailto:santib.2001@hotmail.com"><img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/santiago-betancur-duque/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://github.com/Saisho137" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-</p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisho137&show_icons=true&theme=dark&locale=en&layout=compact" alt="saisho137" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisho137&show_icons=true&theme=dark&locale=en" alt="saisho137" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisho137&theme=dark" alt="saisho137" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisho137&show_icons=true&theme=dark&locale=en&layout=compact" alt="saisho137" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisho137" alt="saisho137" /></a> </p>
