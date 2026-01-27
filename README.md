@@ -1,13 +1,13 @@
 <h1 align="center"> Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Software Engineer and FullStack Developer from Colombia!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisho137&label=Profile%20views&color=c50202&style=plastic" alt="saisho137" /> </p>
-
 - 🔭 I’m currently working on [solving-with-ai](https://github.com/somospragma/pragma-ia-solving-with-ai)
 - 🌱 I’m currently learning about *Backend*
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/Saisho137?tab=repositories)
 - 💬 Ask me about **TypeScript, React: CRA, Vite, NextJS & AWS**
 - 📫 How to reach me **santib.2001@hotmail.com - [Linkedin](https://www.linkedin.com/in/santiago-betancur-duque/)**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisho137&label=Profile%20views&color=c50202&style=plastic" alt="saisho137" /> </p>
 
 ---
 ## <a name="my-top-skills"></a>My top skills:
