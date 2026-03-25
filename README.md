@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Software Engineer and FullStack Developer from Colombia!</h3>
 
-- 🔭 I’m currently working on [solving-with-ai](https://github.com/somospragma/pragma-ia-solving-with-ai)
+- 🔭 I’m currently working on [Arka](https://github.com/Saisho137/Arka)
 - 🌱 I’m currently learning about *Backend*
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/Saisho137?tab=repositories)
 - 💬 Ask me about **TypeScript, React: CRA, Vite, NextJS & AWS**
