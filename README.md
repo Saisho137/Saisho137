@@ -99,17 +99,3 @@
 </tr></table>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saisho137&show_icons=true&theme=dark&locale=en" alt="saisho137 stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisho137&theme=dark" alt="saisho137 streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saisho137&show_icons=true&theme=dark&locale=en&layout=compact" alt="saisho137 top langs" />
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisho137" alt="saisho137" /></a> </p>
