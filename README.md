@@ -1,8 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Software Engineer and FullStack Developer from Colombia!</h3>
 
-- 🔭 I'm currently working on my [Portfolio](https://github.com/Saisho137/Portfolio)
-- 🌱 I'm currently learning about *Backend*
+- 🔭 I'm currently working on [Kakeibo]([https://github.com/Saisho137/Portfolio](https://github.com/Saisho137/saisho_kakeibo))
+- 🌱 I'm currently learning about *Flutter*
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/Saisho137?tab=repositories)
 - 💬 Ask me about **TypeScript, React: CRA, Vite, NextJS & AWS**
 - 📫 How to reach me **santib.2001@hotmail.com - [Linkedin](https://www.linkedin.com/in/santiago-betancur-duque/)**
